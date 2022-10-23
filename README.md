@@ -23,8 +23,8 @@ This is my Personal Project on creating a 3D Cube Animation
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/fritzadelbertus/PP02_3D-Cube-Animation)
+- Live Site URL: [Github Page](https://fritzadelbertus.github.io/PP02_3D-Cube-Animation/)
 
 ## My process
 
@@ -65,4 +65,4 @@ I will try to create different 3D shape and add more content to the 3D object. M
 
 ## Acknowledgments
 
-I want to say thank you to [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers) for providing this tutorial. It will really help start creating 3D Objects on websites.
+I want to say thank you to [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers) for providing this tutorial. It will really help me start creating 3D Objects on websites.
